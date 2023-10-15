@@ -14,11 +14,11 @@
 
 
 <div><h3>Onde me encontrar</h3>
-    <a href="https://www.instagram.com/carlos_hamster9/igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239990?style=for-the-badge&logo=instagram&logoColor=pink-purple" target="_blank"></a>
-  <a href = "cadusousamachado9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%239990?style=for-the-badge&logo=gmail&logoColor=redblack" target="_blank"></a>
+    <a href="https://www.instagram.com/carlos_hamster9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239990?style=for-the-badge&logo=instagram&logoColor=pink-purple" target="_blank"></a>
+  <a href = "mailto:cadusousamachado9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%239990?style=for-the-badge&logo=gmail&logoColor=redblack" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlos-eduardo-992054289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%239990?style=for-the-badge&logo=linkedin&logoColor=blue" 
   target="_blank"></a>
-  ##
+ 
 <details>
     <sumary>:zap: Github Stats</sumary>
     <div style="display: inline_block"><br>
